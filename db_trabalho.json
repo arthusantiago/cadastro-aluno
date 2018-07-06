@@ -1,0 +1,5 @@
+{ "_id" : { "$oid" : "5b3e5c60ed566d4026a9e037" }, "nome" : "Arthu Vinicius", "nota" : "123", "__v" : 0 }
+{ "_id" : { "$oid" : "5b3e6c95778ef4489a6071a3" }, "nome" : "Fulano de Tal da Silva", "nota" : "9", "__v" : 0 }
+{ "_id" : { "$oid" : "5b3e87022a97eb4fc7c60474" }, "nome" : "Beltrano", "nota" : "10", "__v" : 0 }
+{ "_id" : { "$oid" : "5b3e877277d73153d16f737c" }, "nome" : "Beltrano da silva sauro", "nota" : "7", "__v" : 0 }
+{ "_id" : { "$oid" : "5b3e9ada3051df5e4615c41a" }, "nome" : "Ciclano da Silva", "nota" : "9", "__v" : 0 }
